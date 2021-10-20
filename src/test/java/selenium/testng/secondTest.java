@@ -20,7 +20,7 @@ WebDriver driver;
 	@Test
 	public void firsttest()
 	{
-		driver.get("https://en.wiiiiiikipedia.org/wiki/Main_Page");
+		driver.get("https://en.wikipedia.org/wiki/Main_Page");
 	}
 	
 	@AfterTest
